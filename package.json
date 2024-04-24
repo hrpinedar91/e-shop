@@ -22,5 +22,10 @@
     "tailwindcss": "^3.4.1",
     "eslint": "^8",
     "eslint-config-next": "14.2.2"
+  },
+  "engines": {
+    "node": ">=20.12.2",
+    "pnpm": ">=8.13.1",
+    "npm": "please use pnpm to install dependencies"
   }
 }
